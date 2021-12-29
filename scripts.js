@@ -3,6 +3,6 @@ window.addEventListener('keydown', function (event) {
   if (!audio) {
     return;
   }
-  
+  audio.currentTime = 0;
   audio.play();
 } )
