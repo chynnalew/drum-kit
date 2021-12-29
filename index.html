@@ -13,8 +13,19 @@
   <header class="border-bottom">
     <h1>VIRTUAL DRUM KIT</h1>
   </header>
-  <div class="row main">
-    <div class="instructions col-lg-4 col-med-12">
+  </div>
+  <div id="tabs">
+    <ul class="nav nav-tabs nav-fill">
+      <li class="nav-item">
+        <p class="nav-link" id="navI" onClick=clickI()>Instructions</p>
+      </li>
+      <li class="nav-item">
+        <p class="nav-link" id="navDK" onClick=clickDK()>Drum Kit</p>
+      </li>
+    </ul>
+  </div>
+  <div class="row main" id="tabContent">
+    <div class="instructions col-lg-4 col-med-12" id="instructions">
       <div class="container pt-3 pb-3">
         <h2>How to Play</h2>
         <hr/>
@@ -28,7 +39,7 @@
         <p>press the listed keys or click the buttons to play the corresponding sound</p>
       </div>
     </div>
-    <div class="drumKit col-lg-8 col-med-12">
+    <div class="drumKit col-lg-8 col-med-12" id="drumKit" >
       <div class="container pt-3 pb-3">
         <div class="keys">
           <div class="row">
