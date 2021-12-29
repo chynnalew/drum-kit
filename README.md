@@ -14,9 +14,13 @@
 <hr/>
 
 ## Description
-This application was created to practice basic JS and transforming Figma wireframing to HTML/CSS. The desktop site contains a single page showing both the drumkit and the instructions. The mobile site contains the drum kit page with an expanding instructions tab.
+This application was created to practice basic JS and transforming Figma wireframing to HTML/CSS. The desktop site contains a single page showing both the drumkit and the instructions. The mobile site contains two tabs to toggle between the instructions and the drum kit. Please view the diagrams below
 
 <hr/>
+
+## Setup / instructions
+* download or clone (this)[https://github.com/chynnalew/drum-kit] repository
+* open index.html in your local browser
 
 ## Diagrams/Mock-up
 
