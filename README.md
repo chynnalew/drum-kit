@@ -25,9 +25,11 @@ This application was created to practice basic JS and transforming Figma wirefra
 ## Diagrams/Mock-up
 
 Mobile
+
 <img src="assets/diagrams/drum-mobile.png" alt="Mobile mockup"/>
 
 Desktop
+
 <img src="assets/diagrams/drum-desktop.png" alt="Desktop mockup"/>
 
 <hr/>
