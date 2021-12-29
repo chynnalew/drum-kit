@@ -23,19 +23,27 @@ header {
 }
 
 .instructions {
-  font-family: 'Revalia';
+  font-family: 'Rokkitt';
+  font-weight: 600;
   background-color: rgb(231, 231, 231);
+}
+.instructions h2 {
+  font-family: 'Revalia';
 }
 
 
 .drumKit {
   background-color: rgb(121, 121, 121);
-  margin:0;
   padding:5%;
   box-shadow: inset 0 0 20px black;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Revalia'
+}
+
+.sound {
+  font-family: 'Rokkitt';
 }
 
 .key {
