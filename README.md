@@ -1,6 +1,6 @@
 # Drum Kit
 
-#### Play a mock drum kit by clicking the buttons or using the keyboard
+#### Media scaling drum emulator
 
 ### By: Chynna Lew
 
